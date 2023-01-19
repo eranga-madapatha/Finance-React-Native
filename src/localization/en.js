@@ -1,0 +1,52 @@
+export const en = {
+  languages: {
+    english: 'English',
+    japanese: '日本',
+  },
+  languageSelectPopup: {
+    select_language: 'Select language',
+    confirm: 'Confirm',
+    selected: 'Selected',
+  },
+  emailPopup: {
+    forgot_password: 'Forgot password',
+    enter_email: 'Enter your email address below',
+    email_text: 'Email',
+    email_placeholder: 'Email',
+    continue: 'Continue',
+  },
+  otpPopup: {
+    forgot_password: 'Validate your email',
+    enter_the_code: 'Enter the code received to your email',
+    received_the_code: 'Haven’t received the code?',
+    resend: 'Resend',
+    complete: 'Complete',
+  },
+  newPasswordPopup: {
+    new_password: 'Enter new password',
+    password_text: 'Password',
+    password_placeholder: 'Enter password',
+    retype_password_text: 'Enter password again',
+    retype_password_placeholder: 'Retype password ',
+    continue: 'Continue',
+  },
+  loginScreen: {
+    login: 'Login',
+    email_text: 'Enter email',
+    email_placeholder: 'Enter email',
+    password_text: 'Enter password',
+    password_text: 'Enter password',
+    password_placeholder: 'Enter password',
+    forgot_password: 'Forgot password',
+    forgot_password_modal: 'Forgot password modal',
+    login_button: 'Login',
+    have_an_account: 'Don’t have an account?',
+    register: 'Register',
+  },
+  common: {
+    loading: 'Loading',
+    login: 'Login',
+    register: 'Register',
+    connectionError: 'Connection error',
+  },
+};
